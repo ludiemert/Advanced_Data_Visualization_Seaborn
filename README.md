@@ -1,6 +1,6 @@
-### English 💌
+#### English 💌
 
-# 🐍 Python -  Advanced Data Visualization with Seaborn - Asimov Academy
+### 🐍 Python -  Advanced Data Visualization with Seaborn - Asimov Academy
 
 
 ### What is this course?  
@@ -63,12 +63,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/10_Codig_Type_BD.png" style="width: 90%;" alt="Codig_Type_BD">
-                <p style="margin-top: 5px;">Codig_Type_BD</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/6_grafic_regressao.png" style="width: 90%;" alt="Grafic_regressao">
+                <p style="margin-top: 5px;">Grafic_regressao</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/11_Table_Type.png" style="width: 90%;" alt="Table_Type">
-                <p style="margin-top: 5px;">Table_Type</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/8_grafico_variaveis_numericas.png" style="width: 90%;" alt="Grafico_variaveis_numericas">
+                <p style="margin-top: 5px;">Grafico_variaveis_numericas</p>
             </td>
         </tr>
     </table>
@@ -87,12 +87,12 @@ ________________________________________
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/13_Insert_date_Table.png" style="width: 90%;" alt="Insert_date_Table">
-                <p style="margin-top: 5px;">Insert_date_Table</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/9_Paleta_collor.png" style="width: 90%;" alt="Paleta_collor">
+                <p style="margin-top: 5px;">Paleta_collor</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/15_Filter_conditional_AND.png" style="width: 90%;" alt="Filter_conditional_AND">
-                <p style="margin-top: 5px;">Filter_conditional_AND</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/13_data_horizontal_boxplot.png" style="width: 90%;" alt="Data_horizontal_boxplot">
+                <p style="margin-top: 5px;">Data_horizontal_boxplot</p>
             </td>
         </tr>
     </table>
@@ -108,12 +108,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/2_alter_name_index_name.png" style="width: 90%;" alt="Alter_name_index_name">
-                <p style="margin-top: 5px;">Alter_name_index_name</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/14_other_grafic_boxplot.png" style="width: 90%;" alt="Other_grafic_boxplot">
+                <p style="margin-top: 5px;">Other_grafic_boxplot</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas_img/6_BD_SQlite_memorry_disck_Rigd.png" style="width: 90%;" alt="BD_SQlite_memorry_disck_Rigd">
-                <p style="margin-top: 5px;">BD_SQlite_memorry_disck_Rigd</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/16_grafic_violinplot.png" style="width: 90%;" alt="Grafic_violinplot">
+                <p style="margin-top: 5px;">Grafic_violinplot</p>
             </td>
         </tr>
     </table>
@@ -131,12 +131,12 @@ ________________________________________
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas/4_Projectos/3_Proj_ GDP_Per_Person_Img/16_grafico_03_Evolução media por regiao.png" style="width: 90%;" alt="grafico_03_Evolução media por regiao">
-                <p style="margin-top: 5px;">grafico_03_Evolução media por regiao</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/24_pivot_method.png" style="width: 90%;" alt="Pivot_method">
+                <p style="margin-top: 5px;">Pivot_method</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas/4_Projectos/3_Proj_ GDP_Per_Person_Img/19_matplotlib_grafic_estimativ.png" style="width: 90%;" alt="GDP_Per_Person_Img/19_matplotlib_grafic_estimativ">
-                <p style="margin-top: 5px;">GDP_Per_Person_Img/19_matplotlib_grafic_estimativ</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/25_grafic_map_hot.png" style="width: 90%;" alt="Grafic_map_hot">
+                <p style="margin-top: 5px;">Grafic_map_hot</p>
             </td>
         </tr>
     </table>
@@ -152,12 +152,12 @@ ________________________________________
     <table>
         <tr>
              <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas/4_Projectos/3_Proj_ GDP_Per_Person_Img/24_img_Year_project_new.png" style="width: 90%;" alt="Year_project_new">
-                <p style="margin-top: 5px;">Year_project_new</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/26_figsize_map_hot.png" style="width: 90%;" alt="Figsize_map_hot">
+                <p style="margin-top: 5px;">Figsize_map_hot</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="2_SQL_Pandas/4_Projectos/3_Proj_ GDP_Per_Person_Img/25_img_interative.png" style="width: 90%;" alt="img_interative">
-                <p style="margin-top: 5px;">img_interative</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/27_grafic_inf_number.png" style="width: 90%;" alt="Grafic_inf_number">
+                <p style="margin-top: 5px;">Grafic_inf_number</p>
             </td>
         </tr>
     </table>
@@ -169,9 +169,9 @@ ________________________________________
 
   ----
 
-### Portugues💌
+#### Portugues💌
 
-# 🐍 Python -  Advanced Data Visualization with Seaborn - Asimov Academy
+#### 🐍 Python -  Advanced Data Visualization with Seaborn - Asimov Academy
 
 
 ### O que é este curso?  
