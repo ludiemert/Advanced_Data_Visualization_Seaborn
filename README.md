@@ -42,12 +42,12 @@ ________________________________________
     <table>
         <tr>
             <td style="width: 50%; text-align: center;">
-                <img src="1_Concept_Pd_img_project/5_Dealing_missing_data/1_dealing_missing_data.png" style="width: 90%;" alt="Dealing_missing_data">
-                <p style="margin-top: 5px;">Dealing_missing_data</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/2_curva_ estatística.png" style="width: 90%;" alt="Curva_ estatística">
+                <p style="margin-top: 5px;">Curva_ estatística</p>
             </td>
             <td style="width: 50%; text-align: center;">
-                <img src="1_Concept_Pd_img_project/7_concat_merge_join/2_method_concat_axis.png" style="width: 90%;" alt="Method_concat_axis">
-                <p style="margin-top: 5px;">Method_concat_axis</p>
+                <img src="4_Advanced_Data_Visualization_Seaborn_img/4_grafico_distribuicao_conjunta.png" style="width: 90%;" alt="Grafico_distribuicao_conjunta">
+                <p style="margin-top: 5px;">Grafico_distribuicao_conjunta</p>
             </td>
         </tr>
     </table>
